@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gg_color_zero", "gg_color_zero.csproj", "{DE297DC0-22F1-48ED-8191-1B85BC41BAB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE297DC0-22F1-48ED-8191-1B85BC41BAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE297DC0-22F1-48ED-8191-1B85BC41BAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE297DC0-22F1-48ED-8191-1B85BC41BAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE297DC0-22F1-48ED-8191-1B85BC41BAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
